@@ -8,4 +8,32 @@
   <classpathentry kind="output" path="target/classes"/>
   <classpathentry kind="con" path="MULE_RUNTIME"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/mule/edi/edi-parser/1.0.0/edi-parser-1.0.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.17/log4j-1.2.17.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-core/2.0.6/maven-core-2.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-error-diagnostics/2.0.6/maven-error-diagnostics-2.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-monitor/2.0.6/maven-monitor-2.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-plugin-descriptor/2.0.6/maven-plugin-descriptor-2.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-plugin-parameter-documenter/2.0.6/maven-plugin-parameter-documenter-2.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-toolchain/1.0/maven-toolchain-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2/wagon-provider-api-1.0-beta-2.jar"/>
 </classpath>
