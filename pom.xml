@@ -105,12 +105,12 @@
 	  		 <artifactId>maven-compiler-plugin</artifactId>
 	   		 <version>2.3.2</version>
 		</dependency>
-		<!-- commenting-bhaskar
+
 		<dependency>
 			<groupId>org.mule.edi</groupId>
 			<artifactId>edi-parser</artifactId>
-			<version>1.0.0</version>
-		</dependency>-->
+			<version>1.2.2</version>
+		</dependency>
 
 		<!-- Xml configuration -->
 
