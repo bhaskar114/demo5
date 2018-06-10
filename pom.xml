@@ -169,7 +169,7 @@
             <artifactId>cloudhub-client-api</artifactId>
             <version>${cloudhub.client.version}</version>
         </dependency>
-
+</dependencies>
 	<repositories>
 			<repository>
 				<id>Central</id>
