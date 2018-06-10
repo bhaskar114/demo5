@@ -190,16 +190,6 @@
 				<layout>default</layout>
 			</repository>
 	</repositories>
-	<distributionManagement>
-		<repository>
-          <uniqueVersion>false</uniqueVersion>
-          <id>mycloudhub</id>
-          <name>Cloud Hub</name>
-          <url>https://anypoint.mulesoft.com/cloudhub/</url>
-          <layout>default</layout>
-        </repository>
-    </distributionManagement>
-	
     <pluginRepositories>
        	<pluginRepository>
        		 <id>mule-public</id>
