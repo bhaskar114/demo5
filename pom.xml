@@ -15,6 +15,7 @@
 		<cloudhub.client.version>1.5</cloudhub.client.version>
 		<mule.version>3.9.0</mule.version>
     	<mule.tools.version>1.1</mule.tools.version>
+		<maven.build.timestamp.format>yyyy-MM-dd'T'HH.mm.ss</maven.build.timestamp.format>
 	</properties>
 
 	<build>
@@ -77,7 +78,7 @@
 							<muleVersion>3.9.1</muleVersion>
 							<username>bhaskar_agarwal14</username>
 							<password>M1ndtree</password>
-							<applicationName>my-application2</applicationName>
+							<applicationName>my-application2_${maven.build.timestamp}</applicationName>
 							<redeploy>true</redeploy>
 							<environment>Sandbox</environment>
 							<workers>1</workers>
