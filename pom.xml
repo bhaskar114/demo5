@@ -176,6 +176,13 @@
             <artifactId>cloudhub-client-api</artifactId>
             <version>${cloudhub.client.version}</version>
         </dependency>
+		<!-- https://mvnrepository.com/artifact/org.codehaus.mojo/buildnumber-maven-plugin -->
+<dependency>
+    <groupId>org.codehaus.mojo</groupId>
+    <artifactId>buildnumber-maven-plugin</artifactId>
+    <version>1.4</version>
+</dependency>
+
 </dependencies>
 	<repositories>
 			<repository>
