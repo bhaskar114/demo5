@@ -76,7 +76,7 @@
 							<!-- muleVersion is the runtime version as it appears on the CloudHub interface -->
 							<muleVersion>3.9.1</muleVersion>
 							<username>bhaskar_agarwal14</username>
-							<password>M1ndtree</password>
+							<password>M1ndtree11</password>
 							<applicationName>my-application2</applicationName>
 							<redeploy>true</redeploy>
 							<environment>Sandbox</environment>
@@ -205,4 +205,11 @@
              </snapshots>
          </pluginRepository>
      </pluginRepositories>
+	 <distributionManagement>
+	 <repository>
+	 <id>Nexus</id>
+	 <name>Nexus Public Mirror</name>
+	 <url>http://localhost:8081/nexus/content/groups/public</url>
+	 </repository>
+	 </distributionManagement>
 </project>
