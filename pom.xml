@@ -75,11 +75,11 @@
 							<deploymentType>cloudhub</deploymentType>
 							<!-- muleVersion is the runtime version as it appears on the CloudHub interface -->
 							<muleVersion>3.9.1</muleVersion>
-							<username>bhaskar_agarwal1433</username>
-							<password>M1ndtree1</password>
-							<applicationName>my-application2</applicationName>
+							<username>bhaskar_agarwal14</username>
+							<password>M1ndtree</password>
+							<applicationName>my-application</applicationName>
 							<redeploy>true</redeploy>
-							<environment>Sandbox1</environment>
+							<environment>Sandbox</environment>
 							<workers>1</workers>
       						<workerType>Micro</workerType>
 					</configuration>
