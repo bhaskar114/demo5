@@ -77,7 +77,7 @@
 							<muleVersion>3.9.1</muleVersion>
 							<username>bhaskar_agarwal14</username>
 							<password>M1ndtree</password>
-							<applicationName>my-application</applicationName>
+							<applicationName>my-application2</applicationName>
 							<redeploy>true</redeploy>
 							<environment>Sandbox</environment>
 							<workers>1</workers>
