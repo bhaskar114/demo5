@@ -75,7 +75,7 @@
 							<deploymentType>cloudhub</deploymentType>
 							<!-- muleVersion is the runtime version as it appears on the CloudHub interface -->
 							<muleVersion>3.9.1</muleVersion>
-							<username>bhaskar_agarwal141</username>
+							<username>bhaskar_agarwal14</username>
 							<password>M1ndtree</password>
 							<applicationName>my-application</applicationName>
 							<redeploy>true</redeploy>
